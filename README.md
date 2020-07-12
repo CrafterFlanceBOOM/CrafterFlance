@@ -1,2 +1,5 @@
-# CrafterFlance
-Just a game ;-;
+Created by crafterflance
+
+old filename: E.exe
+
+python filename: e.py
